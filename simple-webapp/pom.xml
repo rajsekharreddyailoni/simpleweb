@@ -44,12 +44,10 @@
   <distributionManagement>
   <snapshotRepository>
     <id>snapshots</id>
-	<name>SNAPSHOT</name>
     <url>http://54.183.255.50:8080/nexus/content/repositories/snapshots/</url>
   </snapshotRepository>
   <repository>
     <id>releases</id>
-	<name>RELEASES</name>
     <url>http://54.183.255.50:8080/nexus/content/repositories/releases/</url>
   </repository>
 </distributionManagement>
