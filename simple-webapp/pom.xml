@@ -38,15 +38,14 @@
           <source>1.5</source>
           <target>1.5</target>
         </configuration>
-      </plugin>
-    </plugins>
-  </build>
-  <plugin>
+         <plugin>
            <groupId>org.apache.maven.plugins</groupId>
            <artifactId>maven-deploy-plugin</artifactId>
            <version>3.8.1</version>
          </plugin>
-         
+      </plugin>
+    </plugins>
+  </build>        
   <distributionManagement>
   <snapshotRepository>
     <id>snapshots</id>
