@@ -13,7 +13,6 @@
     <module>simple-webapp</module>
   </modules>
   
-
 <distributionManagement>
   <snapshotRepository>
     <id>snapshots</id>
